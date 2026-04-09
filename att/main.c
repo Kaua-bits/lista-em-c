@@ -4,7 +4,6 @@
 
 #include "lista.h"
 
-
 static const char *arquivosTribunais[] = {
     "basedados/teste_TRE-AC.csv",
     "basedados/teste_TRE-AL.csv",
